@@ -55,14 +55,14 @@ Employee-Management-System/
 2. Open the project in Eclipse IDE
 
 3. Set up the MySQL database
-   Create a database: ems_db
-   Create employee table manually 
+   -Create a database: ems_db
+   -Create employee table manually 
 
-4. Configure DB connection in your Java code (DBUtil/DAO class)
+4. Configure DB connection in your Java code 
 
 5. Add and configure Apache Tomcat Server
-   Right-click project → Run on Server
-   Choose Apache Tomcat v9 or v10
+   -Right-click project → Run on Server
+   -Choose Apache Tomcat v9 or v10
 
 6.Open the browser and go to: http://localhost:8080/Employee-Management-System/
 
