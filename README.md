@@ -8,7 +8,7 @@ A web-based Employee Management System using Java, JSP, Servlets, JDBC, and MySQ
 - **Backend**: Java, Servlets, JDBC
 - **Database**: MySQL
 - **Build Tool**: Maven
-- **Server**: Apache Tomcat (v9 or v10)
+- **Server**: Apache Tomcat 
 - **IDE**: Eclipse
 
 ## 📌 Features
@@ -19,7 +19,6 @@ A web-based Employee Management System using Java, JSP, Servlets, JDBC, and MySQ
 - Delete employee records  
 
 ## 🗂️ Project Structure
-## 📁 Folder Structure
 
 ```bash
 Employee-Management-System/
@@ -45,3 +44,31 @@ Employee-Management-System/
 ├── pom.xml
 └── README.md
 ```
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/Prakruthi-G-H/Employee-Management-System.git
+2. Open the project in Eclipse IDE
+
+3. Set up the MySQL database
+   Create a database: ems_db
+   Create employee table manually 
+
+4. Configure DB connection in your Java code (DBUtil/DAO class)
+
+5. Add and configure Apache Tomcat Server
+   Right-click project → Run on Server
+   Choose Apache Tomcat v9 or v10
+
+6.Open the browser and go to: http://localhost:8080/Employee-Management-System/
+
+👩‍💻 Developed by
+Prakruthi G H
+📍 Bangalore, India
+📧 prakruthigh28@gmail.com
+🔗 LinkedIn Profile
+🔗 GitHub Profile
