@@ -66,9 +66,10 @@ Employee-Management-System/
 
 6.Open the browser and go to: http://localhost:8080/Employee-Management-System/
 
-👩‍💻 Developed by
-Prakruthi G H
-📍 Bangalore, India
-📧 prakruthigh28@gmail.com
-🔗 LinkedIn Profile
-🔗 GitHub Profile
+
+## 👩‍💻 Developed by
+
+**Prakruthi G H**  
+📍 Bangalore, India  
+📧 prakruthigh28@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/prakruthi-g-h)
