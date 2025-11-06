@@ -68,7 +68,9 @@ Employee-Management-System/
 
 
 ## 🔮 Future Enhancements
+- Integrate with Spring Boot for scalability
 
+  
 ## 👩‍💻 Developed by
 
 **Prakruthi G H**  
