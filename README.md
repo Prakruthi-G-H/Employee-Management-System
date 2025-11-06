@@ -68,6 +68,8 @@ Employee-Management-System/
 
 
 ## 🔮 Future Enhancements
+
+- Implement login and authentication (Admin/User roles)
 - Integrate with Spring Boot for scalability
 
   
