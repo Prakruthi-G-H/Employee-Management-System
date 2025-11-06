@@ -67,6 +67,8 @@ Employee-Management-System/
 6.Open the browser and go to: http://localhost:8080/Employee-Management-System/
 
 
+## 🔮 Future Enhancements
+
 ## 👩‍💻 Developed by
 
 **Prakruthi G H**  
